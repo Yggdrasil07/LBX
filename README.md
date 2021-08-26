@@ -12,7 +12,7 @@ Tớ tên là Phạm Văn Diện còn được có biệt danh là ⚡Jukie
 - ⚡ Học sinh **THPT**
 - ⚡ Date of birth : **18/03/2004**
 - ⚡ Chiều cao : **1m7**
-- ⚡ Tính cách : hơi **ngu**, **nhạt**, đôi lúc cũng hay **giỡn đùa** cùng các bạn trong nhóm
+- ⚡ Tính cách : hơi **ngu**, **nhạt**, đôi lúc cũng hay **đùa giỡn** cùng các bạn trong nhóm
 - ⚡ Tớ hiện tại đang sinh sống tại **An Giang**
 
 **Các sở thích của tớ**
