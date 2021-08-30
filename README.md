@@ -6,22 +6,22 @@ Tớ tên là Phạm Văn Diện còn được có biệt danh là ⚡Jukie
     <img align="center" alt="GIF" src="https://i.redd.it/hzaufj70z0v21.gif" />
 </p> 
 
-**Giới thiệu về tớ**
+**Giới thiệu**
 
-- ⚡ Tớ tên là **Phạm Văn Diện**
+- ⚡ Tôi tên là **Phạm Văn Diện**
 - ⚡ Học sinh **THPT**
 - ⚡ Date of birth : **18/03/2004**
 - ⚡ Chiều cao : **1m7**
 - ⚡ Tính cách : hơi **ngu**, **nhạt**, đôi lúc cũng hay **đùa giỡn** cùng các bạn trong nhóm
-- ⚡ Tớ hiện tại đang sinh sống tại **An Giang**
+- ⚡ Tôi hiện tại đang sinh sống tại **An Giang**
 
-**Các sở thích của tớ**
+**Sở thích**
 
 - ⚡ Thích nghe nhạc 
 - ⚡ Thích chơi game
 - ⚡ Thích phá code, tò mò những điều thú vị
 
-**Liên hệ với tớ**
+**Thông tin liên lạc**
 
 - ⚡ Faceebok : **[Phạm Văn Diện](https://www.facebook/PhamVanDien.User)**
 - ⚡ Youtube : **[Phạm Văn Diện Official](https://www.youtube.com/channel/UCwHbdvzzEDQ3U_6u4AdqE8w)**
