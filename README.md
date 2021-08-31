@@ -18,7 +18,7 @@ Tớ tên là Phạm Văn Diện còn được có biệt danh là ⚡Jukie
 **Sở thích**
 
 - ⚡ Thích nghe nhạc 
-- ⚡ Thích chơi game
+- ⚡ Thích chơi game (LOL, MINECRAFT)
 - ⚡ Thích phá code, tò mò những điều thú vị
 
 **Thông tin liên lạc**
