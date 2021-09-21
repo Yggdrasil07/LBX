@@ -2,10 +2,8 @@
 Tớ tên là Phạm Văn Diện còn được có biệt danh là ⚡Jukie
 
 <p align="center">
-	<img alt="size" src="https://img.shields.io/github/repo-size/OreoZera/OREO_plus.svg?style=flat-square&label=size">
-	<img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=red&label=code%20version&prefix=v&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2FOreoZera%2FOREO_plus%2Fmaster%2Fpackage.json&style=flat-square">
-	<a href="https://github.com/OreoZera/OREO_plus/commits"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/OreoZera/OREO_plus.svg?label=commit&style=flat-square"></a>
-    	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=OreoZera.OREO_plus">
+	<a href="https://github.com/d-jukie/miraiv2_fix/commits"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/OreoZera/OREO_plus.svg?label=commit&style=flat-square"></a>
+    	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=D-Jukie">
 </p>
 <p align="center">
     <img align="center" alt="GIF" src="https://i.redd.it/hzaufj70z0v21.gif" />
